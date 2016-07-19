@@ -15,8 +15,7 @@ function gradeOdd(inptgrade) {
 
 rl.question('\nPlease enter your grade: ', (inptgrade) => {
     
-  if(inptgrade < 75 && inptgrade == gradeEven)
+  if(inptgrade < 75 && inptgrade )
   console.log('Your new grade is: '+ (inptgrade - 2));
   rl.close();
 });
-
