@@ -17,5 +17,9 @@ rl.question('\nPlease enter your grade: ', (inptgrade) => {
     
   if(inptgrade < 75 && inptgrade %2 == 0)
   console.log('Your new grade is: '+ (inptgrade - 2));
+  else {
+      console.log('Your new grade is: '+ (inptgrade - 3));
+      
+  }
   rl.close();
 });
