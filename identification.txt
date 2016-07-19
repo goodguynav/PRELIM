@@ -1,0 +1,32 @@
+a.) Explain in your own words the term "single-threaded"
+
+//** Single-threaded for me is a machine processing where a certain program runs in a single path of execution. Meaning the
+program only run single task at a time.
+
+b.) In your own words, what is "event driven architecture"
+
+//** For me, event driven architecture is a function or program designed as to how each task is configured, when each task
+is changed by recording changes that occurs each and everytime a programmer commits.
+
+c.) What are the benefits of a javascript module
+
+//** The benefits of a javascript module for me is that when a new programmer like us students makes a new program then
+an object is unidentified, the javascript module exports a certain objects that could fit in our program. We can also
+reuse those objects given by the javascript module as a required object in other programs.
+
+d.) Give two implementations of javascript module
+
+//**
+
+e.) In your own words, what is a module bundler.
+
+//** For me module bundler is a kind of function or app that converts your modules or compresses your modules into one or more
+so that when a certain browser or something won't read your modules, module bundler converts it for you.
+
+3.) Programming
+
+//** Programming for me is a fun but complicated kind of work. It is fun because it's like you are making something for the
+internet. It's like everytime you program, you also contribute in the industry.Complicated because in order to achieve
+something in programming, you need to be a logical thinker. You need to understand how everything works. You need to
+understand how softwares work, how hardwares work, how the internet works.
+
